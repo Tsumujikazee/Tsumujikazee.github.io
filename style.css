@@ -75,3 +75,7 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+.interest-table th {
+  background: #40c4c4;
+}
