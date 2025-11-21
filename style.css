@@ -76,7 +76,21 @@ th, td {
   padding: 0.5rem;
 }
 
-.interest-table th {
-  background: #40c4c4;
-　color: #fff;
+.interests-table th {
+  background: #55cccc;
+  color: #fff;
+}
+
+.works-images td {
+  border: dashed 1px var(--theme-color);
+}
+
+.works-images img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.works-images p {
+  text-align: center;
 }
